@@ -1,14 +1,17 @@
 {
-  "name": "shopify",
+  "name": "shopify-custom-app-boilerplate",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "Shopify Custom App Boilerplate with plain Node.js and Axios",
   "main": "index.js",
   "scripts": {
     "test": "node main.js"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Arslan Ramay",
+    "url": "https://github.com/arslanramay"
+  },
   "license": "ISC",
   "dependencies": {
     "@shopify/shopify-api": "^11.0.0",
